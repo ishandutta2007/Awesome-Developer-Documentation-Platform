@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Developer-Documentation-Platform?style=social)
+![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Developer-Documentation-Platform?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Developer-Documentation-Platform?style=social)
 ![GitHub license](https://img.shields.io/github/license/ishandutta2007/Awesome-Developer-Documentation-Platform)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -52,7 +52,7 @@ Welcome to the definitive awesome list for **Developer Documentation Platforms**
 
 Below is a curated collection of top open-source documentation frameworks, static site generators (docs-as-code), and self-hosted knowledge bases, sorted by GitHub star popularity.
 
-### 🌟 Open-Source Options (Sorted by Star Count)
+### 🌟 Open-Source Options (Sorted by Stars_Count)
 
 - **[Docusaurus](https://github.com/facebook/docusaurus)** <a href="https://github.com/facebook/docusaurus/stargazers"><img src="https://img.shields.io/github/stars/facebook/docusaurus?style=social&color=white" alt="Docusaurus Stars"/></a>  
   **The de facto standard open-source documentation framework (MIT, Meta/React).** Built on React and MDX. Features built-in versioning, i18n, Algolia DocSearch, and OpenAPI plugins. Best for complete control over technical documentation.
@@ -96,7 +96,7 @@ Below is a curated collection of top open-source documentation frameworks, stati
 
 1. 🍴 Fork the repository.
 2. 📝 Add or update entries in `README.md` following the established table/list formatting.
-3. ℹ️ Include name, URL, exact pricing details, star counts, and clear descriptions.
+3. ℹ️ Include name, URL, exact pricing details, Stars_Counts, and clear descriptions.
 4. 🔀 Submit a Pull Request with a brief explanation.
 
 ---
